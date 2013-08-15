@@ -1,7 +1,7 @@
 /*
 This is the Nanoshield library to access an external I2C EEPROM
 
-Copyright (c) 2013 Luis Fernando Chavier
+Copyright (c) 2013 Circuitar
 This software is released under the MIT license. See the attached LICENSE file for details.
 */
 

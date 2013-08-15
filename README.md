@@ -9,6 +9,6 @@ To install, just copy it under &lt;arduinosketchfolder&gt;/libraries/
 
 ---
 
-Copyright (c) 2013 Luis Fernando Chavier
+Copyright (c) 2013 Circuitar
 
 This software is released under an MIT license. See the attached LICENSE file for details.
