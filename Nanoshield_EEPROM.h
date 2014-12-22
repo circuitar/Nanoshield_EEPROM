@@ -5,7 +5,12 @@ Copyright (c) 2013 Circuitar
 This software is released under the MIT license. See the attached LICENSE file for details.
 */
 
-#include "Arduino.h"
+#ifdef ARDUPI
+    #include "arduPi.h"
+#else
+    #include "Arduino.h"
+    #include <Wire.h>
+#endif
 
 class Nanoshield_EEPROM {
 	public:

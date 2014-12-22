@@ -5,8 +5,6 @@ Copyright (c) 2013 Circuitar
 This software is released under the MIT license. See the attached LICENSE file for details.
 */
 
-#include "Arduino.h"
-#include <Wire.h>
 #include "Nanoshield_EEPROM.h"
 
 #define EEPROM_I2C_ADDRESS 0x50
